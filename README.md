@@ -4,7 +4,7 @@ Repository URL: GitHub - [abdi-El/react-exercise](https://github.com/abdi-El/rea
 
 #### Objective:
 
-    Fetch data from the JSONPlaceholder API and display the posts in a visually appealing format using React components.
+Fetch data from the JSONPlaceholder API and display the posts in a visually appealing format using React components.
 
 ### API Endpoint: [JSONPlaceholder API](https://jsonplaceholder.typicode.com/posts)
 
